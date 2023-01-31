@@ -21,16 +21,10 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aasif9&show_icons=true&locale=en&layout=compact" alt="aasif9" /></p>
 <br>
-<br>
-<br>
 <hr>
-<br>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aasif9&show_icons=true&locale=en" alt="aasif9" /></p>
 <br>
-<br>
 <hr>
-<br>
-<br>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aasif9&" alt="aasif9" /></p>
