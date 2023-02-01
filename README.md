@@ -29,12 +29,10 @@
   </br>
   <img src="https://img.shields.io/badge/-ReactJs-F3F7FA?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="React">
   <img src="https://img.shields.io/badge/-Django-F3F7FA?logo=django&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Django">
-  <img src="https://img.shields.io/badge/-Unity-F3F7FA?logo=unity&logoColor=000000&style=for-the-badge&logoWidth=30" alt="Unity">
   </br>
   <img src="https://img.shields.io/badge/-MySQL-F3F7FA?logo=mysql&logoColor=4479A1&style=for-the-badge&logoWidth=30" alt="MySQL">
   <img src="https://img.shields.io/badge/-MongoDB-F3F7FA?logo=mongodb&logoColor=47A248&style=for-the-badge&logoWidth=30" alt="MongoDB">
   <img src="https://img.shields.io/badge/-SQLite-F3F7FA?logo=sqlite&logoColor=003B57&style=for-the-badge&logoWidth=30" alt="SQLite">
-  <img src="https://img.shields.io/badge/-postgresql-F3F7FA?logo=postgresql&logoColor=003B57&style=for-the-badge&logoWidth=30" alt="postgresql">
   </br>
   <img src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=009639&style=for-the-badge&logoWidth=30" alt="Node">
   <img src="https://img.shields.io/badge/-Express.js-F3F7FA?logo=Express.js&logoColor=009639&style=for-the-badge&logoWidth=30" alt="ExpressJS">
