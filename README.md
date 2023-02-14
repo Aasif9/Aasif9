@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/-C-F3F7FA?logo=c&logoColor=A8B9CC&style=for-the-badge&logoWidth=30" alt="Java">
   <img src="https://img.shields.io/badge/-C++-F3F7FA?logo=cplusplus&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="C++">
   <img src="https://img.shields.io/badge/-Js-F3F7FA?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="Javascript">
-  <img src="https://img.shields.io/badge/-Python-F3F7FA?logo=python&logoColor=3776AB&style=for-the-badge&logoWidth=30" alt="Python">
+ 
 
 </p>
 <h1>Tools, Libraries and Frameworks</h1>
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/-SQLite-F3F7FA?logo=sqlite&logoColor=003B57&style=for-the-badge&logoWidth=30" alt="SQLite">
   </br>
   <img src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=009639&style=for-the-badge&logoWidth=30" alt="Node">
-  <img src="https://img.shields.io/badge/-Express.js-F3F7FA?logo=Express.js&logoColor=009639&style=for-the-badge&logoWidth=30" alt="ExpressJS">
+ 
 </p>
 
 <br>
