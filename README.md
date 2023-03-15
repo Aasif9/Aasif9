@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asif Ali</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 <hr>
 <img align="right" alt="code" width="445" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif">
 
