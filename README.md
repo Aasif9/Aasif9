@@ -12,7 +12,7 @@
 - 🚀 Developed apps with **real-time tracking, payments, voice input, and offline-first support**.  
 - 🧩 Experienced in **cross-platform product delivery** → scaling features across **Android + iOS**.  
 - 🎯 Thinks in **user journeys and use cases**, ensuring features align with **product goals**.
-- - 🧩 Strong believer in **clean architecture, modularization, and scalable codebases**.  
+- 🧩 Strong believer in **clean architecture, modularization, and scalable codebases**.  
 - 🤝 Contributor to **open source**, passionate about **clean code and scalable architectures**.  
 
 ## 🏆 Highlights  
