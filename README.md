@@ -1,7 +1,7 @@
 # Hi, I'm Asif 👋  
 
 🚀 **Android & Flutter Developer | Product-Oriented Problem Solver | Open Source Contributor**  
-🌱 Building modern mobile experiences with **Java,Kotlin, Jetpack Compose & Clean Architecture**  
+🛠️ Skilled in **Java, Kotlin, FLutter, Jetpack Compose, and MVVM/Clean Architecture**, with a strong focus on **scalability & UX**.  
 📍 Based in Kolkata | 🌍 Open to global remote opportunities  
 
 --- 
