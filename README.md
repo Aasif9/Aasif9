@@ -66,7 +66,6 @@
 ![Espresso](https://img.shields.io/badge/-Espresso-795548?style=for-the-badge)
 ![MockK](https://img.shields.io/badge/-MockK-512DA8?style=for-the-badge)
 ![Turbine](https://img.shields.io/badge/-Turbine-5D4037?style=for-the-badge)
-![LeakCanary](https://img.shields.io/badge/-LeakCanary-FBC02D?style=for-the-badge)
 ![Android Profiler](https://img.shields.io/badge/-Android%20Profiler-37474F?style=for-the-badge)
 
 #### ⚙️ Build & Tooling
