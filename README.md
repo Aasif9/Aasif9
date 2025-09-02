@@ -2,7 +2,7 @@
 
 🚀 **Android & Flutter Developer | Product-Oriented Problem Solver | Open Source Contributor**  
 🛠️ Skilled in **Java, Kotlin, FLutter, Jetpack Compose, and MVVM/Clean Architecture**, with a strong focus on **scalability & UX**.  
-📍 Based in Kolkata | 🌍 Open to global remote opportunities  
+
 
 --- 
 
