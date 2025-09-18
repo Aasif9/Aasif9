@@ -56,24 +56,17 @@
 ![MVP](https://img.shields.io/badge/-MVP-4A148C?style=for-the-badge)
 ![MVI](https://img.shields.io/badge/-MVI-1B5E20?style=for-the-badge)
 ![SOLID](https://img.shields.io/badge/-SOLID%20Principles-FF6F00?style=for-the-badge)
-![KISS](https://img.shields.io/badge/-KISS%20Principle-00838F?style=for-the-badge)
-![YAGNI](https://img.shields.io/badge/-YAGNI-455A64?style=for-the-badge)
 ![DRY](https://img.shields.io/badge/-DRY%20Principle-795548?style=for-the-badge)
 
 #### 🧪 Testing & Debugging
 
 ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge)
-![Espresso](https://img.shields.io/badge/-Espresso-795548?style=for-the-badge)
 ![MockK](https://img.shields.io/badge/-MockK-512DA8?style=for-the-badge)
-![Turbine](https://img.shields.io/badge/-Turbine-5D4037?style=for-the-badge)
 ![Android Profiler](https://img.shields.io/badge/-Android%20Profiler-37474F?style=for-the-badge)
 
 #### ⚙️ Build & Tooling
 
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=for-the-badge&logo=gradle)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions)
-![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
-![Bitrise](https://img.shields.io/badge/-Bitrise-683D87?style=for-the-badge&logo=bitrise)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio)
 
@@ -82,20 +75,12 @@
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis)
 
 #### 📊 Analytics & Monitoring
 
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase)
 ![Crashlytics](https://img.shields.io/badge/-Crashlytics-1E88E5?style=for-the-badge)
-![Mixpanel](https://img.shields.io/badge/-Mixpanel-8E24AA?style=for-the-badge)
-![Looker](https://img.shields.io/badge/-Looker-0B9BD7?style=for-the-badge)
 
-#### 🧩 Productivity & Collaboration
 
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma)
-![Slack](https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack)
 
 ---
