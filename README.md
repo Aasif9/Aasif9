@@ -40,7 +40,6 @@
 ![ViewModel](https://img.shields.io/badge/-ViewModel-9C27B0?style=for-the-badge)
 ![LiveData](https://img.shields.io/badge/-LiveData-03A9F4?style=for-the-badge)
 ![Navigation](https://img.shields.io/badge/-Navigation%20Component-009688?style=for-the-badge)
-![Paging3](https://img.shields.io/badge/-Paging3-607D8B?style=for-the-badge)
 ![Data Binding](https://img.shields.io/badge/-Data%20Binding-8D6E63?style=for-the-badge)
 ![ViewBinding](https://img.shields.io/badge/-ViewBinding-6D4C41?style=for-the-badge)
 ![Coroutines](https://img.shields.io/badge/-Coroutines-00599C?style=for-the-badge)
