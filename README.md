@@ -8,7 +8,7 @@
 
 ## 💡 About Me  
 
-- 📱 **3+ years of experience** building production-grade apps in Android (Kotlin, Jetpack Compose) and Flutter.  
+- 📱 **2.5 years of experience** building production-grade apps in Android (Kotlin, Jetpack Compose) and Flutter.  
 - 🚀 Developed apps with **real-time tracking, payments, voice input, and offline-first support**.  
 - 🧩 Experienced in **cross-platform product delivery** → scaling features across **Android + iOS**.  
 - 🎯 Thinks in **user journeys and use cases**, ensuring features align with **product goals**.
@@ -55,7 +55,7 @@
 ![MVP](https://img.shields.io/badge/-MVP-4A148C?style=for-the-badge)
 ![MVI](https://img.shields.io/badge/-MVI-1B5E20?style=for-the-badge)
 ![SOLID](https://img.shields.io/badge/-SOLID%20Principles-FF6F00?style=for-the-badge)
-![DRY](https://img.shields.io/badge/-DRY%20Principle-795548?style=for-the-badge)
+
 
 #### 🧪 Testing & Debugging
 
