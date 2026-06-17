@@ -8,7 +8,7 @@
 
 ## 💡 About Me  
 
-- 📱 **2.5 years of experience** building production-grade apps in Android (Kotlin, Jetpack Compose) and Flutter.  
+- 📱 ** 3 years of experience** building production-grade apps in Android (Kotlin, Jetpack Compose) and Flutter.  
 - 🚀 Developed apps with **real-time tracking, payments, voice input, and offline-first support**.  
 - 🧩 Experienced in **cross-platform product delivery** → scaling features across **Android + iOS**.  
 - 🎯 Thinks in **user journeys and use cases**, ensuring features align with **product goals**.
